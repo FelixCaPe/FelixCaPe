@@ -1,0 +1,84 @@
+* {
+				margin:0px;
+				padding:0px;
+			}
+			
+			body {
+				background-image: url(../imagenes/fondoguapo.jpg);	
+				background-size: cover;	
+					
+			}
+			
+			iframe {
+				background-color: white;			
+			}
+			
+			#header {
+				margin:auto;
+				width:650px;
+				font-family:Arial, Helvetica, sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#000;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+			
+			
+			columns: auto auto;
+			-moz-columns: auto auto;
+			-webkit-columns: auto auto;
+			column-gap: normal;
+			-moz-column-gap: normal;
+			-webkit-column-gap: normal;
+			column-rule: #FFFF00 solid medium;
+			-moz-column-rule: #FFFF00 solid medium;
+			-webkit-column-rule: #FFFF00 solid medium;	
+						
+					body::-webkit-scrollbar {
+  width: 12px;               /* width of the entire scrollbar */
+}
+body::-webkit-scrollbar-track {
+  background: white;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: green;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 2px solid green;  /* creates padding around scroll thumb */
+}
