@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>Inicio</title>
+		<link>https://felixcape.github.io/repositoriofelix/index.html</link>
+		<description>Esta página ha sido desarrollada para la asignatura de fundamentos de hardware y lenguaje de marcas. A continuación podréis ver las diferencias entre:
+
+						- Varios paquetes ofimáticos.
+
+						- Varios software para la recuperación de datos
+
+						- Varios software de antivirus
+	
+						- Varios software portable</description>
+		<item>
+			<title>Apache OpenOffice</title>
+			<link>https://felixcape.github.io/repositoriofelix/paginas_de_html/apacheopenoffice.html</link>
+			<description>Tutorial de como descargar Apache OpenOffice para Windows</description>
+		</item>
+		<item>
+			<title>LibreOffice</title>
+			<link>https://felixcape.github.io/repositoriofelix/paginas_de_html/Libreoffice.html</link>
+			<description>Tutorial de como descargar Libreoffice para Windows</description>
+		</item>
+		<item>
+			<title>DiskDigger</title>
+			<link>https://felixcape.github.io/repositoriofelix/paginas_de_html/DiskDigger.html</link>
+			<description>Tutorial de como descargar DiskDigger para Windows</description>
+		</item>
+		<item>
+			<title>Recuva</title>
+			<link>https://felixcape.github.io/repositoriofelix/paginas_de_html/Recuva.html</link>
+			<description>Tutorial de como descargar Recuva para Windows</description>
+		</item>
+		<item>
+			<title>Avast</title>
+			<link>https://felixcape.github.io/repositoriofelix/paginas_de_html/Avast.html</link>
+			<description>Tutorial de como descargar Avast para Windows</description>
+		</item>
+		<item>
+			<title>ClamAV</title>
+			<link>https://felixcape.github.io/repositoriofelix/paginas_de_html/ClamAV.html</link>
+			<description>Tutorial de como descargar ClamAV para Windows/Ubuntu</description>
+		</item>
+		<item>
+			<title>Opera</title>
+			<link>https://felixcape.github.io/repositoriofelix/paginas_de_html/Opera.html</link>
+			<description>Tutorial de como descargar Opera para Ubuntu</description>
+		</item>
+	</channel>
+</rss>
