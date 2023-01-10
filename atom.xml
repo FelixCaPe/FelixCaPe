@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://felixcape.github.io/repositoriofelix/">
+<feed xml:lang="es" xml:base="https://felixcape.github.io/repositoriofelix/">
 	<id>https://felixcape.github.io/repositoriofelix/</id>
 	<title>atom</title>
 	<updated>2023-01-10T12:32:02+01:00</updated>
