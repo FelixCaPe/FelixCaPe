@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://estherostos.github.io/proyectofhw/">
+	<id>https://felixcape.github.io/repositoriofelix/</id>
+	<title>atom</title>
+	<updated>2023-01-10T12:32:02+01:00</updated>
+	<link rel="alternate" href="https://felixcape.github.io/repositoriofelix/atom.xml"/>
+	<author>
+		<name>Félix Calvo Pérez</name>
+		<email>capefe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+	<category term="atom"/>
+	<logo>atom.png</logo>
+	<entry>
+	<id>https://felixcape.github.io/repositoriofelix/index.html</id>
+	<title>Inicio</title>
+	<update>2023-01-10T12:42:05+01:00</update>
+	<author>
+		<name>Félix Calvo Pérez</name>
+		<email>capefe_aliesma20@iesmedinaazahara.es</email>
+	</author>
+	<summary>atom</summary>
+	</entry>
+</feed>
